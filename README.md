@@ -9,7 +9,7 @@ art, export a sprite sheet, or render/verify many images headlessly.
 
 ## How to install?
 
-Just send the message "install this skill:https://github.com/Ral6224/dsh-aseprite-skill" to your dsh.
+Just send the message `"install this skill:https://github.com/Ral6224/dsh-aseprite-skill"` to your dsh.
 
 ## What's inside
 
