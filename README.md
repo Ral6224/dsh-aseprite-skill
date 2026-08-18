@@ -9,7 +9,9 @@ art, export a sprite sheet, or render/verify many images headlessly.
 
 ## How to install?
 
-Just send the message `"install this skill:https://github.com/Ral6224/dsh-aseprite-skill"` to your dsh.
+First, you should prepare aseprite source code, aseprite api document, and aseprite executable file.
+
+Then just send the message `"install this skill:https://github.com/Ral6224/dsh-aseprite-skill"` to your dsh, your agent will find the path of files.
 
 ## What's inside
 
