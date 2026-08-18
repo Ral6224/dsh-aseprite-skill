@@ -1,4 +1,3 @@
-```markdown
 # aseprite-skill
 
 一个面向编码助手的技能包，用于通过编写 Aseprite Lua 脚本并在真实引擎中运行，来绘制和批量渲染**像素画**。
@@ -63,4 +62,3 @@ Copy-Item -Recurse -Force .\aseprite-skill $dst
   & $env:ASEPRITE_EXE -b --script aseprite-skill/scripts/minimal-example.lua --script-param out=smiley
   powershell -ExecutionPolicy Bypass -File aseprite-skill/scripts/verify-render.ps1 smiley.png
   ```
-```
