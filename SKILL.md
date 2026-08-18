@@ -36,13 +36,8 @@ running them. There are exactly two ways to run a script from a shell:
 
 The skill assumes one of these (check before assuming a path):
 
-- An **installed binary** — locate it (on this machine it is `D:\Aseprite\aseprite.exe`;
-  a Desktop shortcut `Aseprite.lnk` points at it; resolve a `.lnk` with
-  `(New-Object -ComObject WScript.Shell).CreateShortcut(path).TargetPath`).
-- A **source checkout** — this workspace often IS one (`aseprite源码/`), whose useful
-  non-code assets live under `aseprite源码/data/extensions/<name-palettes>/*.gpl`
-  (e.g. `arne16.gpl`, `db16.gpl`, `db32.gpl`, `aap-64.gpl`) and the official Lua API
-  reference under `api/api/*.md`. Load palettes straight from these `.gpl` files.
+- An **installed binary** — locate it.
+- A **source checkout** — this workspace need the aseprite source code and api document.
 
 When neither binary nor checkout is found, tell the user and stop — do not guess paths.
 
