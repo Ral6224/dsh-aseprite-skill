@@ -55,7 +55,7 @@ Copy-Item -Recurse -Force .\aseprite-skill $dst
 
 ## 前置条件 / “需要准备什么吗？”
 
-- 需要 **Aseprite 二进制文件** 来实际运行脚本（作者机器上的路径为：`D:\Aseprite\aseprite.exe`；可通过 `ASEPRITE_EXE` 环境变量覆盖，或使用您自己的路径）。仅有源码仓库是不够的，您需要自行构建二进制。
+- 需要 **Aseprite 二进制文件** 来实际运行脚本（可通过 `ASEPRITE_EXE` 环境变量覆盖，使用您自己的路径）。仅有源码仓库是不够的，您需要自行构建二进制。
 - 这里的脚本是可选辅助工具；`SKILL.md` 中的技能指令才是核心部分。
 
 ## 供人类使用的方式

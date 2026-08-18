@@ -63,8 +63,7 @@ keep it descriptive.
 
 ## Prerequiresites / "does this need anything?"
 
-- Aseprite **binary** to actually run scripts (on the author's machine:
-  `D:\Aseprite\aseprite.exe`; override with the `ASEPRITE_EXE` env var or use your own
+- Aseprite **binary** to actually run scripts (override with the `ASEPRITE_EXE` env var or use your own
   path). The source checkout alone is not binary; you'd have to build it.
 - The scripts here are optional helpers; the skill instructions in `SKILL.md` are the
   part that matters.
