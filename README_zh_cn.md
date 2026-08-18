@@ -6,7 +6,7 @@
 
 ## 如何安装？
 
-只要给你的dsh发一句“帮我安装这个skill：https://github.com/Ral6224/dsh-aseprite-skill”就行。
+只要给你的dsh发一句`“帮我安装这个skill：https://github.com/Ral6224/dsh-aseprite-skill”`就行。
 
 ## 包含内容
 
