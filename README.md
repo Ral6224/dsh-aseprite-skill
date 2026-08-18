@@ -7,6 +7,10 @@ Use it when the user has an Aseprite source checkout and/or an installed Aseprit
 binary and wants the agent to author a new sprite/scene, procedurally generate
 art, export a sprite sheet, or render/verify many images headlessly.
 
+## How to install?
+
+Just send the message "install this skill:https://github.com/Ral6224/dsh-aseprite-skill" to your dsh.
+
 ## What's inside
 
 ```
